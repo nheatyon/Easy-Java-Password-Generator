@@ -63,9 +63,7 @@ The README.md logo was created by <a href='https://it.freepik.com/vettori/affari
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Telegram - [@nheatyon_dev](https://t.me/nheatyon_dev)
 
 
 
