@@ -17,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img align="right" width="250" height="400" src="https://raw.githubusercontent.com/nheatyon/Simple-Java-Password-Generator/main/images/screen.png?token=ANQZT7DVEN7HJ6DLLJNGFX27Q4VSG">
+<img align="right" width="250" height="450" src="https://raw.githubusercontent.com/nheatyon/Simple-Java-Password-Generator/main/images/screen.png?token=ANQZT7DVEN7HJ6DLLJNGFX27Q4VSG">
 
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
