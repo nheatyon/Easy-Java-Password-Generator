@@ -38,33 +38,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 
 <!-- GETTING STARTED -->
 ## Getting Started
+To start using my program, you need to have the latest version of Java installed. Then download the "<b>spassword_gen.jar</b>" file and start it! If you want to modify my code, download the "<b>source</b>" folder. Mention me in case you change part of my code!
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-```sh
-npm install npm@latest -g
-```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-```sh
-git clone https://github.com/your_username_/Project-Name.git
-```
-3. Install NPM packages
-```sh
-npm install
-```
-4. Enter your API in `config.js`
-```JS
-const API_KEY = 'ENTER YOUR API';
-```
 
 
 
