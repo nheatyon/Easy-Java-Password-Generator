@@ -1,8 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/bg.png" alt="Logo" width="80" height="80">
+  <a href="https://t.me/nheatyon">
+    <img src="images/bg.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">𝘼 𝙎𝙞𝙢𝙥𝙡𝙚 𝙅𝙖𝙫𝙖 𝙋𝙖𝙨𝙨𝙬𝙤𝙧𝙙 𝙂𝙚𝙣𝙚𝙧𝙖𝙩𝙤𝙧 𝙗𝙖𝙨𝙚𝙙 𝙤𝙣 𝙎𝙬𝙞𝙣𝙜 🔒</h3>
@@ -17,8 +17,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<img src="images/screen.png" alt="Logo" width="80" height="80">
+<br />
+<p align="center">
+  <a href="https://t.me/nheatyon">
+    <img src="images/screen.png" alt="Logo" width="250" height="400">
+  </a>
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
