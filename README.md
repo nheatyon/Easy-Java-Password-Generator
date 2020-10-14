@@ -17,11 +17,8 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<br />
-<p align="center">
-  <a href="https://t.me/nheatyon">
-    <img src="images/screen.png" alt="Logo" width="250" height="400">
-  </a>
+<img align="right" width="200" height="183" src="https://cloud.githubusercontent.com/assets/532272/21507867/3376e9fe-cc4a-11e6-9350-7ec4f680da36.gif">Markdown magic uses comment blocks in markdown files to automatically sync or transform its contents.
+
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
