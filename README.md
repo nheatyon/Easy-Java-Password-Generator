@@ -32,8 +32,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-* [Java]
-* [Java Swing]
+* [Java Swing] (https://www.java.com/it/download/manual.jsp)
 
 
 
@@ -101,9 +100,9 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+<b>You are not authorized to resell this product as a product developed by yourself.</b>
 
-
+<a href='https://it.freepik.com/vettori/affari'>The README logo was created by djvstock - it.freepik.com</a>
 
 <!-- CONTACT -->
 ## Contact
