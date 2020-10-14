@@ -10,7 +10,7 @@
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://t.me/nheatyon"><strong>Stay Up To Date on upcoming releases»</strong></a>
+    <a href="https://t.me/nheatyon"><strong>Get news on upcoming versions»</strong></a>
     <br />
     <br />
 
