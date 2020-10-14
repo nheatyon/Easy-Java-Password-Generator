@@ -32,7 +32,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Built With
-* [Java Swing] (https://www.java.com/it/download/manual.jsp)
+* [Java Swing](https://www.eclipse.org/windowbuilder)
 
 
 
