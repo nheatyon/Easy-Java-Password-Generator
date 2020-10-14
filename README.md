@@ -40,25 +40,6 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ## Getting Started
 To start using my program, you need to have the latest version of Java installed. Then download the "<b>spassword_gen.jar</b>" file and start it! If you want to modify my code, download the "<b>source</b>" folder. Mention me in case you change part of my code!
 
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
-
-
 <!-- CONTRIBUTING -->
 ## Contributing
 
