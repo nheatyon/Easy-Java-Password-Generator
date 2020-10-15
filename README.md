@@ -23,7 +23,7 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 
 <br />
 
-[Java Swing](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
+[𝘾𝙡𝙞𝙘𝙠 𝙝𝙚𝙧𝙚 𝙩𝙤 𝙙𝙤𝙬𝙣𝙡𝙤𝙖𝙙 𝙩𝙝𝙚 𝙖𝙥𝙥](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
   
 ### Built With
 * [Java Swing](https://www.eclipse.org/windowbuilder)
