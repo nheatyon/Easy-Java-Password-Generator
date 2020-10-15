@@ -17,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img align="right" width="220" height="450" src="https://i.imgur.com/HdEyhAG.jpg">
+<img align="right" width="200" height="400" src="https://i.imgur.com/HdEyhAG.jpg">
 
 There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need.
 
