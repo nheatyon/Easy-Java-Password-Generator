@@ -48,7 +48,8 @@ Logo created by <a href='https://it.freepik.com/vettori/affari'>djvstock - it.fr
 <!-- CONTACT -->
 ## Contact & Screenshot
 
-<h5>Telegram - [@nheatyon_dev](https://t.me/nheatyon_dev)
+<h4>Telegram - [@nheatyon_dev](https://t.me/nheatyon_dev)
+</h4>
 
 <img align="left" width="250" height="400" src="https://i.imgur.com/lukJRUr.jpg">
 
