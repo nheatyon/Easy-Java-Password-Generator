@@ -20,7 +20,10 @@
 
 Goodmorning everyone. This is my first project published on GitHub and thank you so much if you decide to download and / or modify it! It is a simple Java program that generates random strings with capital letters and symbols. You can copy the password using the appropriate "Copy" button. The "Include Uppercase Characters" feature is temporarily disabled and will be re-enabled in a future update.
 
-## [𝐂𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐄𝐉𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 (𝟏.𝟎)](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
+### [𝐂𝐥𝐢𝐜𝐤 𝐡𝐞𝐫𝐞 𝐭𝐨 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐄𝐉𝐏𝐚𝐬𝐬𝐰𝐨𝐫𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 (𝟏.𝟎)](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
+
+### Built With
+* [Java Swing](https://www.eclipse.org/windowbuilder)
 
 <!-- CONTRIBUTING -->
 ## Contributing
