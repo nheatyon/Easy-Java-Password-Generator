@@ -23,9 +23,8 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 
 <br />
 <h3>For a guide on how to install the application,<h3>
-<br />
-  
-*[click here](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
+
+[click here](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
   
 ### Built With
 * [Java Swing](https://www.eclipse.org/windowbuilder)
