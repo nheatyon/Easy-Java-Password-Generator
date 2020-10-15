@@ -22,7 +22,7 @@
 Goodmorning everyone. This is my first project published on GitHub and thank you so much if you decide to download and / or modify it! It is a simple Java program that generates random strings with capital letters and symbols. You can copy the password using the appropriate "Copy" button. The "Include Uppercase Characters" feature is temporarily disabled and will be re-enabled in a future update.
 
 <br />
-<h3>For a guide on how to install the application,<h3>
+<h3>For a guide on how to install the application,
 
 [click here](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
   
