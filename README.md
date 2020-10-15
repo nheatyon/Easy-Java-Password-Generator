@@ -24,9 +24,6 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 
 ### Built With
 * [Java Swing](https://www.eclipse.org/windowbuilder)
-* [Java Swing](https://www.eclipse.org/windowbuilder)
-* [Java Swing](https://www.eclipse.org/windowbuilder)
-* [Java Swing](https://www.eclipse.org/windowbuilder)
 
 <!-- CONTRIBUTING -->
 ## Contributing
