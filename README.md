@@ -50,7 +50,7 @@ Logo created by <a href='https://it.freepik.com/vettori/affari'>djvstock - it.fr
 
 Telegram - [@nheatyon_dev](https://t.me/nheatyon_dev)
 
-<img align="right" width="200" height="350" src="https://i.imgur.com/lukJRUr.jpg">
+<img align="left" width="200" height="350" src="https://i.imgur.com/lukJRUr.jpg">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
