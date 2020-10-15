@@ -27,7 +27,7 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 
 
 <!-- GETTING STARTED -->
-## [Getting Started](https://github.com/nheatyon/Easy-Java-Password-Generator/releases/tag/1.0)
+## [Getting Started](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
 
 <!-- CONTRIBUTING -->
 ## Contributing
