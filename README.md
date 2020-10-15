@@ -48,7 +48,7 @@ Contributions are what make the open source community such an amazing place to b
 
 <b>You are not authorized to resell this product as a product developed by yourself.</b>
 
-The README.md logo was created by <a href='https://it.freepik.com/vettori/affari'>djvstock - it.freepik.com</a>. The application logo was taken from icons8.it
+Logo created by <a href='https://it.freepik.com/vettori/affari'>djvstock - it.freepik.com</a>
 
 <!-- CONTACT -->
 ## Contact
