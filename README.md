@@ -23,7 +23,7 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 
 <br />
 <h3>𝐅𝐨𝐫 𝐚 𝐠𝐮𝐢𝐝𝐞 𝐨𝐧 𝐡𝐨𝐰 𝐭𝐨 𝐢𝐧𝐬𝐭𝐚𝐥𝐥 𝐭𝐡𝐞 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧</h3>
-**[Click here for download](https://github.com/RefewDev/UtilityInfo/releases)**
+**[Click here for download](https://github.com/nheatyon/Easy-Java-Password-Generator/releases)
   
 ### Built With
 * [Java Swing](https://www.eclipse.org/windowbuilder)
