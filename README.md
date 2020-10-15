@@ -17,7 +17,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<img align="right" width="175" height="350" src="https://i.imgur.com/HdEyhAG.jpg">
+<img align="right" width="200" height="350" src="https://i.imgur.com/HdEyhAG.jpg">
 
 Goodmorning everyone. This is my first project published on GitHub and thank you so much if you decide to download and / or modify it! It is a simple Java program that generates random strings with capital letters and symbols. You can copy the password using the appropriate "Copy" button. The "Include Uppercase Characters" feature is temporarily disabled and will be re-enabled in a future update.
 
