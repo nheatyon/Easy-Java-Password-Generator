@@ -28,7 +28,7 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To start using my program, you need to have the latest version of Java installed. Then download the "<b>spassword_gen.jar</b>" file and start it! If you want to modify my code, download the "<b>source</b>" folder. Mention me in case you change part of my code!
+To start using my program, you need to have the latest version of Java installed. Then download "<b>spassword_gen.jar</b>" file and start it! If you want to modify my code, download "<b>source.zip</b>". Mention me in case you change part of my code!
 
 <!-- CONTRIBUTING -->
 ## Contributing
