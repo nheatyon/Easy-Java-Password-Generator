@@ -46,11 +46,11 @@ Contributions are what make the open source community such an amazing place to b
 Logo created by <a href='https://it.freepik.com/vettori/affari'>djvstock - it.freepik.com</a>
 
 <!-- CONTACT -->
-## Contact
+## Contact & Screenshot
 
-Telegram - [@nheatyon_dev](https://t.me/nheatyon_dev)
+####Telegram - [@nheatyon_dev](https://t.me/nheatyon_dev)
 
-<img align="left" width="300" height="400" src="https://i.imgur.com/lukJRUr.jpg">
+<img align="left" width="250" height="400" src="https://i.imgur.com/lukJRUr.jpg">
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
