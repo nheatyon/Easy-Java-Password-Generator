@@ -10,7 +10,7 @@
   <p align="center">
     My first project published on GitHub (14/10/2020) ❤️
     <br />
-    <a href="https://t.me/nheatyon"><strong>Get news on upcoming versions »</strong></a>
+    <a href="https://t.me/nheatyonDev"><strong>Get news on upcoming versions »</strong></a>
     <br />
     <br />
 
