@@ -25,6 +25,10 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 ## Built With
 * [Java Swing](https://www.eclipse.org/windowbuilder)
 
+<!-- CONTRIBUTING -->
+## Contributing
+  
+Any contribution to the project is really **appreciated**! Feel free to fork the project and commit your changes!
 
 <!-- LICENSE -->
 ## License
