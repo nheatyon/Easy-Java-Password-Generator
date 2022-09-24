@@ -23,9 +23,7 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Any contribution to the project is really **appreciated**!
-<p>Feel free to fork the project and commit your changes!</p>
-
+Any contribution to the project is really **appreciated**! Feel free to fork the project and commit your changes!<br/>
 <b>You are not authorized to resell this product as a product developed by yourself.</b>
 
 <!-- CONTACT -->
