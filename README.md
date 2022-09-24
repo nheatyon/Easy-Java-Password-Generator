@@ -26,13 +26,7 @@ Goodmorning everyone. This is my first project published on GitHub and thank you
 Any contribution to the project is really **appreciated**!
 <p>Feel free to fork the project and commit your changes!</p>
 
-
-<!-- LICENSE -->
-## License
-
 <b>You are not authorized to resell this product as a product developed by yourself.</b>
-
-Logo created by <a href='https://it.freepik.com/vettori/affari'>djvstock - it.freepik.com</a>
 
 <!-- CONTACT -->
 ## Contact & Screenshot
